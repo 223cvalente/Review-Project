@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Montserrat, nunito Sans;
+  background-image: url('https://ppt16.csb.app/aidan-hancock-8RU4OuA6Yug-unsplash.png');;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+}
+  .navbar-nav  li a:hover {
+    color: #48f4d8 !important;
+  }
+
+h1{
+
+}
